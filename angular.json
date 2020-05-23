@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fodolist"
+    }
+  },
+  "defaultProject": "fodolist",
+  "cli": {
+    "analytics": "370860b6-9801-4bb6-9182-71b9858fac70"
+  }
 }
