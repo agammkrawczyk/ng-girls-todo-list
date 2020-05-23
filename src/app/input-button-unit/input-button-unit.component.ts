@@ -6,7 +6,7 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./input-button-unit.component.css']
 })
 export class InputButtonUnitComponent implements OnInit {
-  title = 'Hello Ng Grils';
+  title = 'Hello Ng Grils vikings ';
 
   constructor() {
   }
